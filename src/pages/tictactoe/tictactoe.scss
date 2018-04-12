@@ -1,0 +1,19 @@
+page-tictactoe {
+  ion-grid {
+    height: 100%;
+    font-size: 200px;
+    text-align: center;
+  
+    ion-row {
+      height: 33.33%;
+    }
+  }
+  .ligneh{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+  }
+  .lignev{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+  }
+}
